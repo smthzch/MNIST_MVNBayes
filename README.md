@@ -4,4 +4,4 @@ This is an exploratory script to see how you can use multivariate normal distrib
 
 Usage can be seen in train.R
 
-The MVN bayes classifier obtains ~93.7% accuracy on a test seet.
+The MVN bayes classifier obtains ~93.7% accuracy on a test set.
